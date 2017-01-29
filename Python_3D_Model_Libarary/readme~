@@ -1,0 +1,2 @@
+ g++ -shared -fpic volume.cpp -o example.so
+
